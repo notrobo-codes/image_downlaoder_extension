@@ -14,7 +14,7 @@ A powerful Python-based image downloader that extracts and downloads images from
   - PNG
   - WEBP
   - GIF
-  - SVG (if available)
+  - SVG
 - Simple command-line interface
 - Lightweight and easy to use
 
